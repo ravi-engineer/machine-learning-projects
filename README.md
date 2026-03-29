@@ -1,42 +1,35 @@
-# Employee Management System (.NET C#)
+# Machine Learning Projects Portfolio
 
-## Description
-Employee Management System developed using .NET C# as an interview demonstration project.  
-It covers core CRUD operations, authentication, and role-based dashboards.
+This repository contains practical Machine Learning projects demonstrating
+classification, regression, and clustering techniques using Python.
 
-## Features
-- User Login & Registration
-- Employee CRUD operations
-- Role-based Dashboard (Admin / Employee)
-- Search and filter employees
-- Secure data handling
+---
 
-## Tech Stack
-- C#
-- .NET (Windows Forms / ASP.NET)
-- SQL Server
-- Entity Framework
+## 🚀 Projects Included
 
-## Output Screenshots
+| Project | Algorithm | Type |
+|---------|-----------|------|
+| Customer Segmentation | K-Means | Clustering |
+| Gender Classification | Logistic Regression | Classification |
+| House Price Prediction | KNN | Regression |
+| Laptop Price Prediction | Linear Regression | Regression |
+| Loan Prediction | Decision Tree | Classification |
+| Ames Housing Price Prediction | XGBoost | Regression |
+| Spam Classification | Naive Bayes | NLP Classification |
+| Term Plan Prediction | Random Forest | Classification |
 
-### Login
-![Login](screenshots/login.png)
+---
 
-### Employee List
-![Employee List](screenshots/employee-list.png)
+## 🛠 Tech Stack
 
-### Add Employee
-![Add Employee](screenshots/add-employee.png)
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
+- XGBoost
+- Jupyter Notebook
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+---
 
-## How to Run
-1. Open solution file in Visual Studio
-2. Restore NuGet packages
-3. Update SQL Server connection string in App.config
-4. Run the project (F5)
-
-## Author
-**P. Ravi**  
-Software Developer | PHP (12+ yrs) | .NET & Python AI Learner
+## 📂 Repository Structure
